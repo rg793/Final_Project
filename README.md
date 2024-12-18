@@ -95,14 +95,9 @@ Both scripts include robust error handling:
 - SQLite
 - uvicorn
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd dosa_rest_api
    ```
 
-2. Install required Python packages:
+1. Install required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
