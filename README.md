@@ -95,7 +95,7 @@ Both scripts include robust error handling:
 - SQLite
 - uvicorn
 
-   ```
+
 
 1. Install required Python packages:
    ```bash
